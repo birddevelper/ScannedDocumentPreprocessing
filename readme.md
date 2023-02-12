@@ -7,6 +7,6 @@ This snippet code denoise and align scanned documents to be used for any purpose
 ![ScannedDocumentPreprocessing](https://github.com/birddevelper/ScannedDocumentPreprocessing/raw/master/before_after.jpg)
 
 
-**Left side document** : Noisy unaligned sacanned document image.
+**Left side document** : Noisy unaligned scanned document image.
 
 **Right side document** : Denoised and aligned using the snippet code.
