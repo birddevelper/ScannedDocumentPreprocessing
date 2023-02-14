@@ -14,4 +14,4 @@ This snippet code denoise and align scanned documents to be used for any purpose
 
 You can read article explaining the code :
 
-[Scanned Document Preprocessing For Classification and Feature Extraction](https://m-shaeri.ir/blog/scanned-document-image-preprocessing-for-machine-learning-classification-feature-extraction/)
+[Scanned Document Preprocessing For Classification and Feature Extraction](https://mshaeri.com/blog/scanned-document-image-preprocessing-for-machine-learning-classification-feature-extraction/)
