@@ -1,9 +1,6 @@
 
-
-
-# Noisy Scanned document preproccessing
-This snippet code denoise and align scanned documents to be used for any purpose including archiving or classification.
-
+# Noisy Scanned Document Preproccessing
+This snippet code denoise and align scanned documents to be used for any purpose including archiving, classification or OCR.
 ![ScannedDocumentPreprocessing](https://github.com/birddevelper/ScannedDocumentPreprocessing/raw/master/before_after.jpg)
 
 
