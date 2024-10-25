@@ -4,7 +4,8 @@ This snippet code denoise and align scanned documents to be used for any purpose
 
 Sample result : 
 
-![ScannedDocumentPreprocessing](https://github.com/birddevelper/ScannedDocumentPreprocessing/raw/master/before_after.jpg)
+
+![image](https://github.com/user-attachments/assets/cb338f98-8d0a-4396-8b2e-633d95a028a9)
 
 
 **Left side document** : Noisy unaligned scanned document image.
