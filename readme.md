@@ -2,7 +2,13 @@
 # Noisy Scanned Document Preproccessing
 This snippet code denoise and align scanned documents to be used for any purpose including archiving, classification or OCR.
 
-Sample result : 
+## Usage
+
+```bash
+python ./sdp.py
+```
+
+## Sample result 
 
 
 ![image](https://github.com/user-attachments/assets/cb338f98-8d0a-4396-8b2e-633d95a028a9)
